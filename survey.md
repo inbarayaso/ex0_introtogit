@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:yellow
+Favorite food: pasta
+Favorite musician/band:beyonce 
+Favorite movie: men in black
+Requested grade in the course: 90 
